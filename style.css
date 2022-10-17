@@ -1,0 +1,130 @@
+.box {
+    background: transparent linear-gradient(180deg, #323640 0%, #2f3138 100%) 0%
+      0% no-repeat padding-box;
+    border: 5px solid #ffffff1a;
+    border-radius: 24px;
+    font-size: 30px;
+    width: 350px;
+    height: auto;
+    text-align: center;
+    font-weight: bold;
+    flex-direction: column;
+  }
+  .gio {
+    justify-content: center;
+    display: flex;
+  }
+  .photo {
+    width: 50px;
+    height: 60px;
+  }
+  .email {
+    background: #212327 0% 0% no-repeat padding-box;
+    border: 1px solid #ffffff29;
+    border-radius: 8px;
+    opacity: 0.7;
+    width: 250px;
+    height: 30px;
+    
+  }
+  .password {
+    background: #212327 0% 0% no-repeat padding-box;
+    border: 1px solid #ffffff29;
+    border-radius: 8px;
+    opacity: 0.7;
+    width: 250px;
+    height: 30px;
+  }
+  .forgot {
+    color: #9399a3;
+    text-align: right;
+    font-weight: 400;
+    font-size: small;
+  }
+  .Sign {
+    background: #691afd 0% 0% no-repeat padding-box;
+    color: #ffffff;
+    border-radius: 8px;
+    opacity: 1;
+    text-align: center;
+    width: 250px;
+    height: 30px;
+    font-size: x-large;
+    margin: auto;
+    font: normal normal bold 24px/32px Brandon Grotesque;
+    font-size: 18px;
+    margin-top: 5px;
+  }
+  .sign-with {
+    color: #9399a3;
+    text-align: center;
+    font: normal normal bold 22px/30px Brandon Grotesque;
+    font-size: 15px;
+    height: 100px;
+    
+    
+  }
+  .box-right {
+    border: 1px solid #9399a3;
+    width: 120px;
+    margin-right: auto;
+    display: flex;
+    margin-top: 35px;
+    
+    
+  }
+  .box-left{
+    border: 1px solid #9399a3;
+    width: 120px;
+    margin-left: auto;
+    box
+    margin-top: 35px;
+    
+    
+  }
+
+  .facebook{
+    background: #3549E5 0% 0% no-repeat padding-box;
+    width: 35px;
+    height: 35px;
+    border-radius: 30px;
+    padding: 7px;
+    font: normal normal normal 32px/43px Font Awesome 6 Brands;
+    letter-spacing: 0px;
+    color: #FFFFFF;
+    opacity: 1;
+    font-size:x-large;
+  
+  
+   }
+   .google{
+    background-color: #92979B;
+    color: blue;
+    margin-left: 145px;
+    border-radius: 30px;
+    width: 35px;
+    height: 35px;
+    padding: 7px;
+    font-size: x-large; 
+    background: #3549E5 0% 0% no-repeat padding-box;  
+    font: normal normal normal 32px/43px Font Awesome 6 Brands;
+    color: #FFFFFF;
+    float: left;
+  
+  }
+  .twitter{
+    background: #219FEF 0% 0% no-repeat padding-box;
+    opacity: 1;
+    text-align: center;
+    font: normal normal normal 32px/43px Font Awesome 6 Brands;
+    letter-spacing: 0px;
+    color: #FFFFFF;
+    opacity: 1;
+    border-radius: 30px;
+    width: 35px;
+    height: 35px;
+    margin-left: 265px;
+    padding: 7px;
+    font-size: x-large;
+  }
+  
